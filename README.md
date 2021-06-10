@@ -27,5 +27,19 @@ We split the data into training and testing subsets. It took **45 seconds** to t
 We get **95.5% accuracy** on testing subset of data.
 
 ### Confusion Matrix
+![Confusion Matrix Result](https://github.com/abdul789150/Network-Intrustion-Detection-using-Ensemble-Methods/blob/main/cm.png)
+
 
 ## Libraries Required
+- numpy
+- pandas
+- scikit-learn
+- matplotlib
+
+## How to run this project
+For running this project you can run the main_file.py by using the command
+```
+python main_file.py
+```
+
+For more information about the project check **Model Notebook.ipynb** file.
